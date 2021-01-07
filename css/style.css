@@ -1,9 +1,18 @@
 .navbar {
-    background-color: cadetblue;
+    background-color: rgb(12, 196, 104);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.quem-somos{
-    background-color: chocolate;
+    .quem-somos{
+     background-color: rgb(32, 32, 32);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cornsilk;
+    
+}
+.parceiros{
+    background-color: rgb(107, 108, 117);
 }
 .margin{
-    padding-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
 }
